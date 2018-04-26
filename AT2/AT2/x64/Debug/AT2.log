@@ -1,0 +1,11 @@
+﻿  graphicsclass.cpp
+c:\users\james\desktop\olderat2\at2\at2\graphicsclass.cpp(583): warning C4101: 'angle': unreferenced local variable
+c:\users\james\desktop\olderat2\at2\at2\graphicsclass.cpp(582): warning C4101: 'camPos': unreferenced local variable
+c:\users\james\desktop\olderat2\at2\at2\graphicsclass.cpp(582): warning C4101: 'modelPos': unreferenced local variable
+c:\users\james\desktop\olderat2\at2\at2\graphicsclass.cpp(575): warning C4101: 'translateMatrix': unreferenced local variable
+c:\users\james\desktop\olderat2\at2\at2\graphicsclass.cpp(717): warning C4101: 'pos': unreferenced local variable
+c:\users\james\desktop\olderat2\at2\at2\graphicsclass.cpp(716): warning C4101: 'translateMatrix': unreferenced local variable
+c:\users\james\desktop\olderat2\at2\at2\graphicsclass.cpp(777): warning C4101: 'pos': unreferenced local variable
+c:\users\james\desktop\olderat2\at2\at2\graphicsclass.cpp(775): warning C4101: 'lightProjMatrix': unreferenced local variable
+c:\users\james\desktop\olderat2\at2\at2\graphicsclass.cpp(775): warning C4101: 'lightViewMatrix': unreferenced local variable
+  AT2.vcxproj -> C:\Users\james\Desktop\OlderAT2\AT2\x64\Debug\AT2.exe

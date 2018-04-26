@@ -1,0 +1,10 @@
+﻿  systemclass.cpp
+c:\users\james2\desktop\at2\at2\systemclass.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\james2\desktop\at2\at2\systemclass.cpp(210): warning C4552: '>>': operator has no effect; expected operator with side-effect
+  oldmain.cpp
+  main.cpp
+c:\users\james2\desktop\at2\at2\systemclass.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  inputclass.cpp
+  graphicsclass.cpp
+  Generating Code...
+  AT2.vcxproj -> C:\Users\James2\Desktop\AT2\Debug\AT2.exe
